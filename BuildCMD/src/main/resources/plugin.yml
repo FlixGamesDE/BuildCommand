@@ -1,0 +1,9 @@
+name: BuildCMD
+version: ${project.version}
+main: net.flixgames.buildcmd.BuildCMD
+api-version: 1.8.8
+authors: [FlixGames]
+
+commands:
+  build:
+    description: "§6Mache /build in den Baumodus gesetzt zu werden oder entfernt zu werden"
